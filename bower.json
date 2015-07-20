@@ -1,0 +1,10 @@
+{
+  "name": "mt-webfont",
+  "main": [
+    "css/mt-webfont.css",
+    "fonts/moneytree.eot",
+    "fonts/moneytree.svg",
+    "fonts/moneytree.ttf",
+    "fonts/moneytree.woff"
+  ]
+}
