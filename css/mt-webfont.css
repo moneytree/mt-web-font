@@ -1,9 +1,10 @@
 @font-face {
   font-family:'moneytree';
-  src: font-url('moneytree.eot');
-  src: font-url('moneytree.eot') format('embedded-opentype'),
-   font-url('moneytree.woff') format('woff'),
-   font-url('moneytree.ttf') format('truetype'),
+  src: font-url('../fonts/moneytree.eot');
+  src: font-url('../fonts/moneytree.eot') format('embedded-opentype'),
+   font-url('../fonts/moneytree.eot?#iefix') format('embedded-opentype'),
+   font-url('../fonts/moneytree.woff') format('woff'),
+   font-url('../fonts/moneytree.ttf') format('truetype'),
    font-url('moneytree.svg') format('svg');
   font-weight: normal;
   font-style: normal;
