@@ -1,0 +1,30 @@
+{
+  "name": "mt-webfont",
+  "version": "0.0.1",
+  "description": "Moneytree web font",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-git": "^1.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-git": "^1.5.0",
+    "gulp-tag-version": "^1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moneytree/mt-webfont.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moneytree/mt-webfont/issues"
+  },
+  "homepage": "https://github.com/moneytree/mt-webfont#readme"
+}
