@@ -1,5 +1,6 @@
 {
   "name": "mt-webfont",
+  "version": "0.0.0",
   "main": [
     "css/mt-webfont.css",
     "fonts/moneytree.eot",
