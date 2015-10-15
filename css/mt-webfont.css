@@ -1,63 +1,117 @@
 @font-face {
-  font-family:'moneytree';
-  src: font-url('../fonts/moneytree.eot');
-  src: font-url('../fonts/moneytree.eot') format('embedded-opentype'),
-   font-url('../fonts/moneytree.eot?#iefix') format('embedded-opentype'),
-   font-url('../fonts/moneytree.woff') format('woff'),
-   font-url('../fonts/moneytree.ttf') format('truetype'),
-   font-url('moneytree.svg') format('svg');
-  font-weight: normal;
-  font-style: normal;
+	font-family:'moneytree';
+	src: font-url('moneytree.eot');
+	src: font-url('moneytree.eot') format('embedded-opentype'),
+	font-url('moneytree.woff') format('woff'),
+	font-url('moneytree.ttf') format('truetype'),
+	font-url('moneytree.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
 .icon, [class^="icon-"], [class*=" icon-"] {
-  display: inline-block;
-  font-family: 'moneytree';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
+	display: inline-block;
+	font-family: 'moneytree';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
 
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
-/* Paste new classes below */
-
+.icon-corporate-o:before {
+    content: "\e6d9";
+}
+.icon-digital-money-o:before {
+	content: "\e6da";
+}
+.icon-point-o:before {
+	content: "\e6db";
+}
+.icon-bank-o:before {
+	content: "\e6dc";
+}
+.icon-manual-o:before {
+	content: "\e6dd";
+}
+.icon-credit-card-o:before {
+	content: "\e6de";
+}
+.icon-maintenance-circle-o:before {
+	content: "\e6df";
+}
+.icon-low-balance-o:before {
+	content: "\e6e0";
+}
+.icon-credit-card-payment-due-o:before {
+	content: "\e6e1";
+}
+.icon-large-deposit-o:before {
+	content: "\e6e2";
+}
+.icon-large-expense-o:before {
+	content: "\e6e3";
+}
+.icon-notification-o:before {
+	content: "\e6e4";
+}
+.icon-point-expiration-o:before {
+	content: "\e6e5";
+}
+.icon-salary-received-o:before {
+	content: "\e6e6";
+}
+.icon-thin-cog:before {
+	content: "\e6d8";
+}
+.icon-polygon-o:before {
+	content: "\e6d4";
+}
+.icon-pentagon-o:before {
+	content: "\e6d5";
+}
+.icon-check-mark-circle:before {
+	content: "\e6d6";
+}
+.icon-plus:before {
+	content: "\e6d7";
+}
 .icon-account-icon:before {
 	content: "\e6d3";
 }
 .icon-arrow_sidebar:before {
 	content: "\e6cf";
 }
-.icon-connect_accounts:before {
+.icon-connect-accounts-o:before {
 	content: "\e6d0";
 }
-.icon-connect_to:before {
+.icon-connect-to-o:before {
 	content: "\e6d1";
 }
-.icon-verify_email:before {
+.icon-verify-email-o:before {
 	content: "\e6d2";
 }
-.icon-link_out:before {
+.icon-link-out-square-o:before {
 	content: "\e6ce";
 }
-.icon-points_origin:before {
+.icon-points-square-o:before {
 	content: "\e6cd";
 }
-.icon-salary:before {
+.icon-salary-circle-o:before {
 	content: "\e6cc";
 }
-.icon-interest_charge:before {
+.icon-interest-charge-circle-o:before {
 	content: "\e6cb";
 }
-.icon-health_medical:before {
+.icon-health-medical-square-o:before {
 	content: "\e6ca";
 }
-.icon-cafe_coffee_shop:before {
+.icon-cafe-coffee-shop:before {
 	content: "\e6c9";
 }
 .icon-conveniance_store:before {
