@@ -23,6 +23,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-empty-transactions-circle:before {
+  content: "\e800";
+}
+.icon-empty-expenses-circle:before {
+  content: "\e801";
+}
+.icon-empty-notifications-o:before {
+  content: "\e802";
+}
+.icon-empty-notifications-circle:before {
+  content: "\e80e";
+}
 .icon-corporate-o:before {
   content: "\e6d9";
 }
