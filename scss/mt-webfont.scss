@@ -23,7 +23,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
+.icon-search-o:before {
+  content: "\e904";
+}
 .icon-empty-expenses-circle:before {
   content: "\e900";
 }
