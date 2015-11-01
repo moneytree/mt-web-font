@@ -23,6 +23,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-plus-thinner:before {
+  content: "\e905";
+}
 .icon-search-o:before {
   content: "\e904";
 }
