@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?j3xjv');
-	src:url('fonts/icomoon.eot?j3xjv#iefix') format('embedded-opentype'),
-		url('fonts/icomoon.ttf?j3xjv') format('truetype'),
-		url('fonts/icomoon.woff?j3xjv') format('woff'),
-		url('fonts/icomoon.svg?j3xjv#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?uwpyzv');
+	src:url('fonts/icomoon.eot?uwpyzv#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?uwpyzv') format('truetype'),
+		url('fonts/icomoon.woff?uwpyzv') format('woff'),
+		url('fonts/icomoon.svg?uwpyzv#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,23 +23,23 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-plus-thinner:before {
-	content: "\e905";
-}
-.icon-search-o:before {
-	content: "\e904";
-}
-.icon-empty-expenses-circle:before {
+.icon-empty-transactions-o:before {
 	content: "\e900";
 }
 .icon-empty-notifications-o:before {
 	content: "\e901";
 }
-.icon-empty-notifications-circle:before {
+.icon-empty-notifications-mini-o:before {
 	content: "\e902";
 }
-.icon-empty-transactions-circle:before {
+.icon-empty-expenses-o:before {
 	content: "\e903";
+}
+.icon-plus-thinner:before {
+	content: "\e905";
+}
+.icon-search-o:before {
+	content: "\e904";
 }
 .icon-corporate-o:before {
 	content: "\e6d9";

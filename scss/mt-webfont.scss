@@ -23,23 +23,23 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-plus-thinner:before {
-  content: "\e905";
-}
-.icon-search-o:before {
-  content: "\e904";
-}
-.icon-empty-expenses-circle:before {
+.icon-empty-transactions-o:before {
   content: "\e900";
 }
 .icon-empty-notifications-o:before {
   content: "\e901";
 }
-.icon-empty-notifications-circle:before {
+.icon-empty-notifications-mini-o:before {
   content: "\e902";
 }
-.icon-empty-transactions-circle:before {
+.icon-empty-expenses-o:before {
   content: "\e903";
+}
+.icon-plus-thinner:before {
+  content: "\e905";
+}
+.icon-search-o:before {
+  content: "\e904";
 }
 .icon-corporate-o:before {
   content: "\e6d9";
