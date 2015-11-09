@@ -1,6 +1,6 @@
 {
   "name": "mt-webfont",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Moneytree web font",
   "main": "gulpfile.js",
   "dependencies": {
