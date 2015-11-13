@@ -23,14 +23,20 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-moneytree-plus:before {
+.icon-password-lock-o:before {
   content: "\e906";
 }
-.icon-moneytree-free:before {
+.icon-email-o:before {
   content: "\e907";
 }
 .icon-moneytree-pro:before {
   content: "\e908";
+}
+.icon-moneytree-plus:before {
+  content: "\e90c";
+}
+.icon-moneytree-free:before {
+  content: "\e90d";
 }
 .icon-pro-plan-o:before {
   content: "\e909";
@@ -743,7 +749,7 @@
 .icon-digital-money:before {
   content: "\e60a";
 }
-.icon-moneytree:before {
+.icon-moneytree2:before {
   content: "\e60b";
 }
 .icon-moneytree-tm:before {
