@@ -23,6 +23,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-moneytree-plus:before {
+  content: "\e906";
+}
+.icon-moneytree:before {
+  content: "\e907";
+}
+.icon-moneytree-pro:before {
+  content: "\e908";
+}
+.icon-pro-plan-o:before {
+  content: "\e909";
+}
+.icon-plus-plan-o:before {
+  content: "\e90a";
+}
+.icon-free-plan-o:before {
+  content: "\e90b";
+}
 .icon-empty-transactions-o:before {
   content: "\e900";
 }
