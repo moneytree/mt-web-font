@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?qhsiyv');
-	src:url('fonts/icomoon.eot?qhsiyv#iefix') format('embedded-opentype'),
-		url('fonts/icomoon.ttf?qhsiyv') format('truetype'),
-		url('fonts/icomoon.woff?qhsiyv') format('woff'),
-		url('fonts/icomoon.svg?qhsiyv#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?c9xfdf');
+	src:url('fonts/icomoon.eot?c9xfdf#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?c9xfdf') format('truetype'),
+		url('fonts/icomoon.woff?c9xfdf') format('woff'),
+		url('fonts/icomoon.svg?c9xfdf#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,14 +23,20 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-moneytree-plus:before {
+.icon-password-lock-o:before {
 	content: "\e906";
 }
-.icon-moneytree-free:before {
+.icon-email-o:before {
 	content: "\e907";
 }
 .icon-moneytree-pro:before {
 	content: "\e908";
+}
+.icon-moneytree-plus:before {
+	content: "\e90c";
+}
+.icon-moneytree-free:before {
+	content: "\e90d";
 }
 .icon-pro-plan-o:before {
 	content: "\e909";
@@ -743,7 +749,7 @@
 .icon-digital-money:before {
 	content: "\e60a";
 }
-.icon-moneytree2:before {
+.icon-moneytree:before {
 	content: "\e60b";
 }
 .icon-moneytree-tm:before {
