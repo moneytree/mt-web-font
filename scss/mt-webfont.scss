@@ -23,6 +23,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-locked:before {
+  content: "\e912";
+}
 .icon-ring-o:before {
   content: "\e90e";
 }
@@ -464,7 +467,7 @@
 .icon-taxes:before {
   content: "\e665";
 }
-.icon-locked:before {
+.icon-locked-o:before {
   content: "\e666";
 }
 .icon-logout:before {
@@ -683,7 +686,7 @@
 .icon-uncategorized:before {
   content: "\e6ad";
 }
-.icon-unlocked:before {
+.icon-unlocked-o:before {
   content: "\e6ae";
 }
 .icon-housekeeping:before {
