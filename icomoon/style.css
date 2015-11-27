@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?ge60sg');
-	src:url('fonts/icomoon.eot?ge60sg#iefix') format('embedded-opentype'),
-		url('fonts/icomoon.ttf?ge60sg') format('truetype'),
-		url('fonts/icomoon.woff?ge60sg') format('woff'),
-		url('fonts/icomoon.svg?ge60sg#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?rot5ej');
+	src:url('fonts/icomoon.eot?rot5ej#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?rot5ej') format('truetype'),
+		url('fonts/icomoon.woff?rot5ej') format('woff'),
+		url('fonts/icomoon.svg?rot5ej#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,6 +24,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-locked:before {
+	content: "\e912";
+}
 .icon-ring-o:before {
 	content: "\e90e";
 }
@@ -465,7 +468,7 @@
 .icon-taxes:before {
 	content: "\e665";
 }
-.icon-locked:before {
+.icon-locked-o:before {
 	content: "\e666";
 }
 .icon-logout:before {
@@ -684,7 +687,7 @@
 .icon-uncategorized:before {
 	content: "\e6ad";
 }
-.icon-unlocked:before {
+.icon-unlocked-o:before {
 	content: "\e6ae";
 }
 .icon-housekeeping:before {
