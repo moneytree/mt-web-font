@@ -1,16 +1,17 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?c9xfdf');
-	src:url('fonts/icomoon.eot?c9xfdf#iefix') format('embedded-opentype'),
-		url('fonts/icomoon.ttf?c9xfdf') format('truetype'),
-		url('fonts/icomoon.woff?c9xfdf') format('woff'),
-		url('fonts/icomoon.svg?c9xfdf#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?ge60sg');
+	src:url('fonts/icomoon.eot?ge60sg#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?ge60sg') format('truetype'),
+		url('fonts/icomoon.woff?ge60sg') format('woff'),
+		url('fonts/icomoon.svg?ge60sg#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-	font-family: 'icomoon';
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,6 +24,18 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ring-o:before {
+	content: "\e90e";
+}
+.icon-trash-can-o:before {
+	content: "\e90f";
+}
+.icon-rotate:before {
+	content: "\e910";
+}
+.icon-check:before {
+	content: "\e911";
+}
 .icon-password-lock-o:before {
 	content: "\e906";
 }

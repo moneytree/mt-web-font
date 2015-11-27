@@ -23,6 +23,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ring-o:before {
+  content: "\e90e";
+}
+.icon-trash-can-o:before {
+  content: "\e90f";
+}
+.icon-rotate:before {
+  content: "\e910";
+}
+.icon-check:before {
+  content: "\e911";
+}
 .icon-password-lock-o:before {
   content: "\e906";
 }
