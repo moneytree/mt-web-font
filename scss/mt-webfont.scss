@@ -23,6 +23,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-edit-pencil:before {
+  content: "\e913";
+}
 .icon-locked:before {
   content: "\e912";
 }
