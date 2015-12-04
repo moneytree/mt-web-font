@@ -23,6 +23,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-icon-paperclip:before {
+  content: "\e915";
+}
 .icon-cloud-safe-o:before {
   content: "\e914";
 }
