@@ -23,6 +23,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-beta:before {
+  content: "\e902";
+}
 .icon-paperclip:before {
   content: "\e915";
 }
