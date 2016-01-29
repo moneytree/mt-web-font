@@ -3,7 +3,39 @@ var gulp = require('gulp'),
     git = require('gulp-git'),
     bump = require('gulp-bump'),
     filter = require('gulp-filter'),
+    sass = require('gulp-sass'),
+    concat = require('gulp-concat'),
+    del = require('del'),
+    gutil = require('gulp-util'),
     tag_version = require('gulp-tag-version');
+
+var paths = {
+    styles: {
+        filename: 'mt-webfont.css',
+        sass: [
+            'scss/mt-webfont.scss'
+        ],
+        fonts: [
+            'fonts/**/*.{ttf,woff,eof,svg}'
+        ]
+    },
+    dist: {
+        css: 'css'
+    }
+};
+
+gulp.task('build:css', ['clean:css', 'styles:css']);
+
+gulp.task('clean:css', function(cb) {
+    del([ paths.dist.css ], cb);
+});
+
+gulp.task('styles:css', function() {
+    return gulp.src(paths.styles.sass)
+        .pipe(concat(paths.styles.filename))
+        .pipe(sass().on('error', gutil.log))
+        .pipe(gulp.dest(paths.dist.css));
+});
 
 /**
  * Bumping version number and tagging the repository with it.
