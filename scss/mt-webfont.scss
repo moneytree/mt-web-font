@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-connect-to-o:before {
+  content: "\e916";
+}
 .icon-beta:before {
   content: "\e902";
 }
@@ -156,7 +159,7 @@
 .icon-connect-accounts-o:before {
   content: "\e6d0";
 }
-.icon-connect-to-o:before {
+.icon-connect-to-circle-o:before {
   content: "\e6d1";
 }
 .icon-verify-email-o:before {
@@ -779,8 +782,5 @@
 }
 .icon-moneytree-tm:before {
   content: "\e6bd";
-}
-.icon-spinner:before {
-  content: "\e6be";
 }
 
