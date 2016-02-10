@@ -1,6 +1,6 @@
 {
   "name": "mt-webfont",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": [
     "scss/mt-webfont.scss"
   ]
