@@ -24,7 +24,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-chibi-circle-o:before {
+.icon-cross-circle:before {
+    content: "\e91a";
+}
+.icon-chibi-icon-square:before {
+    content: "\e919";
+}
+.icon-chibi-circle:before {
     content: "\e917";
 }
 .icon-stocks-o:before {
