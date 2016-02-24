@@ -18,6 +18,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-cog:before {
+  content: "\e91b"; }
+
 .icon-cross-circle:before {
   content: "\e91a"; }
 
