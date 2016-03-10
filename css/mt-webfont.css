@@ -18,6 +18,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-spinner-new:before {
+  content: "\e91e"; }
+
 .icon-vacuum:before {
   content: "\e91c"; }
 
@@ -206,9 +209,6 @@
 
 .icon-error-triangle-o:before {
   content: "\e6c1"; }
-
-.icon-spinner-new:before {
-  content: "\e6bf"; }
 
 .icon-cross:before {
   content: "\e6bc"; }
