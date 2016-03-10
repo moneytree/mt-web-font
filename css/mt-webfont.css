@@ -18,6 +18,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-updating:before {
+  content: "\e91e"; }
+
 .icon-vacuum:before {
   content: "\e91c"; }
 
