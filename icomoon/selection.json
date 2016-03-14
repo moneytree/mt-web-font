@@ -19,7 +19,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 68,
+				"order": 20,
 				"id": 66,
 				"name": "spinner-new",
 				"prevSize": 16,
@@ -48,7 +48,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 67,
+				"order": 19,
 				"id": 0,
 				"name": "vacuum, clear-all-o",
 				"prevSize": 16,
@@ -76,7 +76,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 69,
+				"order": 21,
 				"id": 1,
 				"name": "heart, welcome-o",
 				"prevSize": 16,
@@ -103,7 +103,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 270,
+				"order": 66,
 				"id": 2,
 				"name": "cog",
 				"prevSize": 16,
@@ -130,7 +130,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 65,
+				"order": 18,
 				"id": 3,
 				"name": "cross-circle",
 				"prevSize": 16,
@@ -160,7 +160,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 63,
+				"order": 17,
 				"id": 4,
 				"name": "chibi-icon-square",
 				"prevSize": 16,
@@ -191,7 +191,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 18,
+				"order": 14,
 				"id": 5,
 				"name": "chibi-circle",
 				"prevSize": 16,
@@ -224,7 +224,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 17,
+				"order": 11,
 				"id": 6,
 				"name": "stocks-o",
 				"prevSize": 16,
@@ -255,7 +255,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 255,
+				"order": 50,
 				"id": 7,
 				"name": "connect-to-o",
 				"prevSize": 16,
@@ -287,7 +287,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 268,
+				"order": 65,
 				"id": 8,
 				"name": "beta",
 				"prevSize": 16,
@@ -316,7 +316,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 267,
+				"order": 64,
 				"id": 9,
 				"name": "paperclip",
 				"prevSize": 16,
@@ -345,7 +345,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 265,
+				"order": 63,
 				"id": 10,
 				"name": "cloud-safe-o",
 				"prevSize": 16,
@@ -375,7 +375,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 265,
+				"order": 62,
 				"id": 11,
 				"name": "edit-pencil",
 				"prevSize": 16,
@@ -404,7 +404,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 264,
+				"order": 60,
 				"id": 12,
 				"prevSize": 16,
 				"code": 59666,
@@ -432,7 +432,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 263,
+				"order": 59,
 				"id": 13,
 				"name": "ring-o",
 				"prevSize": 16,
@@ -464,7 +464,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 264,
+				"order": 61,
 				"id": 14,
 				"name": "trash-can-o",
 				"prevSize": 16,
@@ -494,7 +494,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 262,
+				"order": 56,
 				"id": 15,
 				"name": "rotate",
 				"prevSize": 16,
@@ -523,7 +523,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 261,
+				"order": 55,
 				"id": 16,
 				"name": "check",
 				"prevSize": 16,
@@ -552,7 +552,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 259,
+				"order": 52,
 				"id": 17,
 				"name": "password-lock-o",
 				"prevSize": 16,
@@ -581,7 +581,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 260,
+				"order": 53,
 				"id": 18,
 				"name": "email-o",
 				"prevSize": 16,
@@ -621,7 +621,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 261,
+				"order": 54,
 				"id": 19,
 				"name": "moneytree-pro",
 				"prevSize": 16,
@@ -662,7 +662,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 262,
+				"order": 57,
 				"id": 20,
 				"name": "moneytree-plus",
 				"prevSize": 16,
@@ -699,7 +699,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 263,
+				"order": 58,
 				"id": 21,
 				"name": "moneytree-free",
 				"prevSize": 16,
@@ -728,7 +728,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 4,
+				"order": 2,
 				"id": 22,
 				"name": "pro-plan-o",
 				"prevSize": 16,
@@ -757,7 +757,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 5,
+				"order": 3,
 				"id": 23,
 				"name": "plus-plan-o",
 				"prevSize": 16,
@@ -787,7 +787,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 6,
+				"order": 4,
 				"id": 24,
 				"name": "free-plan-o",
 				"prevSize": 16,
@@ -899,7 +899,7 @@
 				}
 			],
 			"properties": {
-				"order": 253,
+				"order": 48,
 				"id": 25,
 				"name": "empty-transactions-o",
 				"prevSize": 16,
@@ -939,7 +939,7 @@
 				}
 			],
 			"properties": {
-				"order": 254,
+				"order": 49,
 				"id": 26,
 				"name": "empty-notifications-o",
 				"prevSize": 16,
@@ -1006,7 +1006,7 @@
 				}
 			],
 			"properties": {
-				"order": 256,
+				"order": 51,
 				"id": 27,
 				"name": "find-expenses-o",
 				"prevSize": 16,
@@ -1035,7 +1035,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 251,
+				"order": 47,
 				"id": 28,
 				"prevSize": 16,
 				"code": 59653,
@@ -1063,7 +1063,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 245,
+				"order": 46,
 				"id": 29,
 				"name": "search-o",
 				"prevSize": 16,
@@ -1093,7 +1093,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 221,
+				"order": 33,
 				"id": 30,
 				"name": "corporate-o",
 				"prevSize": 16,
@@ -1126,7 +1126,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 222,
+				"order": 34,
 				"id": 31,
 				"name": "digital-money-o, stored_value-o",
 				"prevSize": 16,
@@ -1156,7 +1156,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 223,
+				"order": 35,
 				"id": 32,
 				"name": "point-o",
 				"prevSize": 16,
@@ -1186,7 +1186,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 225,
+				"order": 37,
 				"id": 33,
 				"name": "bank-o",
 				"prevSize": 16,
@@ -1226,7 +1226,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 224,
+				"order": 36,
 				"id": 34,
 				"name": "manual-o",
 				"prevSize": 16,
@@ -1257,7 +1257,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 226,
+				"order": 38,
 				"id": 35,
 				"name": "credit-card-o, credit_card-o",
 				"prevSize": 16,
@@ -1290,7 +1290,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 22,
+				"order": 16,
 				"id": 36,
 				"name": "maintenance-circle-o",
 				"prevSize": 16,
@@ -1321,7 +1321,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 228,
+				"order": 39,
 				"id": 37,
 				"name": "low-balance-o",
 				"prevSize": 16,
@@ -1352,7 +1352,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 229,
+				"order": 40,
 				"id": 38,
 				"name": "credit-card-payment-due-o, cc-payment-due-o",
 				"prevSize": 16,
@@ -1394,7 +1394,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 230,
+				"order": 41,
 				"id": 39,
 				"name": "large-deposit-o",
 				"prevSize": 16,
@@ -1426,7 +1426,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 231,
+				"order": 42,
 				"id": 40,
 				"name": "large-expense-o",
 				"prevSize": 16,
@@ -1456,7 +1456,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 232,
+				"order": 43,
 				"id": 41,
 				"name": "notification-o",
 				"prevSize": 16,
@@ -1489,7 +1489,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 233,
+				"order": 44,
 				"id": 42,
 				"name": "point-expiration-o, expiring-points-o",
 				"prevSize": 16,
@@ -1520,7 +1520,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 234,
+				"order": 45,
 				"id": 43,
 				"name": "salary-received-o, salary-o",
 				"prevSize": 16,
@@ -1549,7 +1549,7 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 219,
+				"order": 32,
 				"id": 44,
 				"name": "thin-cog",
 				"prevSize": 16,
@@ -1577,7 +1577,7 @@
 				{}
 			],
 			"properties": {
-				"order": 215,
+				"order": 30,
 				"id": 45,
 				"name": "check-mark-circle",
 				"prevSize": 16,
@@ -1605,7 +1605,7 @@
 				{}
 			],
 			"properties": {
-				"order": 216,
+				"order": 31,
 				"id": 46,
 				"name": "plus",
 				"prevSize": 16,
@@ -1642,7 +1642,7 @@
 				{}
 			],
 			"properties": {
-				"order": 212,
+				"order": 29,
 				"id": 47,
 				"prevSize": 16,
 				"code": 59091,
@@ -1655,25 +1655,23 @@
 		{
 			"icon": {
 				"paths": [
-					"M348.125 78.442l422.492 435.724-94.746 91.869-422.492-435.724 94.746-91.869z",
-					"M675.862 417.893l94.759 91.856-422.455 435.809-94.759-91.856 422.455-435.809z"
+					"M782.893 458.328l-438.857-438.857c-12.707-10.931-29.364-17.588-47.576-17.588-40.396 0-73.143 32.747-73.143 73.143 0 18.212 6.656 34.87 17.669 47.673l386.845 387.195-386.926 387.291c-13.244 13.244-21.435 31.539-21.435 51.749 0 40.418 32.765 73.184 73.184 73.184 20.209 0 38.505-8.191 51.749-21.435l438.857-438.857c13.145-13.221 21.27-31.444 21.27-51.566 0-20.303-8.272-38.674-21.631-51.926z"
 				],
-				"attrs": [
-					{},
-					{}
-				],
+				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
 					"arrow"
 				],
-				"grid": 16
+				"grid": 16,
+				"colorPermutations": {
+					"16868681": [
+						0
+					]
+				}
 			},
-			"attrs": [
-				{},
-				{}
-			],
+			"attrs": [],
 			"properties": {
-				"order": 2,
+				"order": 67,
 				"id": 48,
 				"prevSize": 16,
 				"code": 59087,
@@ -1710,7 +1708,7 @@
 				{}
 			],
 			"properties": {
-				"order": 6,
+				"order": 5,
 				"id": 49,
 				"prevSize": 16,
 				"code": 59086,
@@ -1743,7 +1741,7 @@
 				{}
 			],
 			"properties": {
-				"order": 14,
+				"order": 6,
 				"id": 50,
 				"prevSize": 16,
 				"code": 59074,
@@ -1776,7 +1774,7 @@
 				{}
 			],
 			"properties": {
-				"order": 15,
+				"order": 8,
 				"id": 51,
 				"prevSize": 16,
 				"code": 59075,
@@ -1813,7 +1811,7 @@
 				{}
 			],
 			"properties": {
-				"order": 16,
+				"order": 10,
 				"id": 52,
 				"prevSize": 16,
 				"code": 59076,
@@ -1850,7 +1848,7 @@
 				{}
 			],
 			"properties": {
-				"order": 17,
+				"order": 12,
 				"id": 53,
 				"prevSize": 16,
 				"code": 59077,
@@ -1891,7 +1889,7 @@
 				{}
 			],
 			"properties": {
-				"order": 18,
+				"order": 13,
 				"id": 54,
 				"name": "arrow",
 				"prevSize": 16,
@@ -1932,7 +1930,7 @@
 				{}
 			],
 			"properties": {
-				"order": 19,
+				"order": 15,
 				"id": 55,
 				"name": "error-triangle-o",
 				"prevSize": 16,
@@ -1978,7 +1976,7 @@
 				}
 			],
 			"properties": {
-				"order": 198,
+				"order": 22,
 				"id": 57,
 				"prevSize": 16,
 				"code": 59068,
@@ -2123,7 +2121,7 @@
 				}
 			],
 			"properties": {
-				"order": 15,
+				"order": 7,
 				"id": 58,
 				"name": "mt-logo",
 				"prevSize": 16,
@@ -2191,7 +2189,7 @@
 				}
 			],
 			"properties": {
-				"order": 16,
+				"order": 9,
 				"id": 59,
 				"prevSize": 16,
 				"code": 58881,
@@ -2237,7 +2235,7 @@
 				}
 			],
 			"properties": {
-				"order": 210,
+				"order": 28,
 				"id": 60,
 				"prevSize": 16,
 				"code": 58882,
@@ -2283,7 +2281,7 @@
 				}
 			],
 			"properties": {
-				"order": 209,
+				"order": 27,
 				"id": 61,
 				"prevSize": 16,
 				"code": 58883,
@@ -2329,7 +2327,7 @@
 				}
 			],
 			"properties": {
-				"order": 208,
+				"order": 26,
 				"id": 62,
 				"prevSize": 16,
 				"code": 58884,
@@ -2375,7 +2373,7 @@
 				}
 			],
 			"properties": {
-				"order": 207,
+				"order": 25,
 				"id": 63,
 				"prevSize": 16,
 				"code": 58885,
@@ -2510,7 +2508,7 @@
 				}
 			],
 			"properties": {
-				"order": 201,
+				"order": 24,
 				"id": 64,
 				"name": "moneytree",
 				"prevSize": 16,
@@ -2656,7 +2654,7 @@
 				}
 			],
 			"properties": {
-				"order": 200,
+				"order": 23,
 				"id": 65,
 				"name": "moneytree-tm",
 				"prevSize": 16,
