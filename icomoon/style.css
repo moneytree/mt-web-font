@@ -1,246 +1,252 @@
 @font-face {
-    font-family: 'icomoon';
-    src:    url('fonts/icomoon.eot?jn5mgq');
-    src:    url('fonts/icomoon.eot?jn5mgq#iefix') format('embedded-opentype'),
-        url('fonts/icomoon.ttf?jn5mgq') format('truetype'),
-        url('fonts/icomoon.woff?jn5mgq') format('woff'),
-        url('fonts/icomoon.svg?jn5mgq#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?b75a9q');
+  src:  url('fonts/icomoon.eot?b75a9q#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?b75a9q') format('truetype'),
+    url('fonts/icomoon.woff?b75a9q') format('woff'),
+    url('fonts/icomoon.svg?b75a9q#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-home-o:before {
+  content: "\e91f";
+}
+.icon-vault-o:before {
+  content: "\e920";
+}
 .icon-spinner-new:before {
-    content: "\e91e";
+  content: "\e91e";
 }
 .icon-vacuum:before {
-    content: "\e91c";
+  content: "\e91c";
 }
 .icon-clear-all-o:before {
-    content: "\e91c";
+  content: "\e91c";
 }
 .icon-heart:before {
-    content: "\e91d";
+  content: "\e91d";
 }
 .icon-welcome-o:before {
-    content: "\e91d";
+  content: "\e91d";
 }
 .icon-cog:before {
-    content: "\e91b";
+  content: "\e91b";
 }
 .icon-cross-circle:before {
-    content: "\e91a";
+  content: "\e91a";
 }
 .icon-chibi-icon-square:before {
-    content: "\e919";
+  content: "\e919";
 }
 .icon-chibi-circle:before {
-    content: "\e917";
+  content: "\e917";
 }
 .icon-stocks-o:before {
-    content: "\e918";
+  content: "\e918";
 }
 .icon-connect-to-o:before {
-    content: "\e916";
+  content: "\e916";
 }
 .icon-beta:before {
-    content: "\e902";
+  content: "\e902";
 }
 .icon-paperclip:before {
-    content: "\e915";
+  content: "\e915";
 }
 .icon-cloud-safe-o:before {
-    content: "\e914";
+  content: "\e914";
 }
 .icon-edit-pencil:before {
-    content: "\e913";
+  content: "\e913";
 }
 .icon-locked:before {
-    content: "\e912";
+  content: "\e912";
 }
 .icon-ring-o:before {
-    content: "\e90e";
+  content: "\e90e";
 }
 .icon-trash-can-o:before {
-    content: "\e90f";
+  content: "\e90f";
 }
 .icon-rotate:before {
-    content: "\e910";
+  content: "\e910";
 }
 .icon-check:before {
-    content: "\e911";
+  content: "\e911";
 }
 .icon-password-lock-o:before {
-    content: "\e906";
+  content: "\e906";
 }
 .icon-email-o:before {
-    content: "\e907";
+  content: "\e907";
 }
 .icon-moneytree-pro:before {
-    content: "\e908";
+  content: "\e908";
 }
 .icon-moneytree-plus:before {
-    content: "\e90c";
+  content: "\e90c";
 }
 .icon-moneytree-free:before {
-    content: "\e90d";
+  content: "\e90d";
 }
 .icon-pro-plan-o:before {
-    content: "\e909";
+  content: "\e909";
 }
 .icon-plus-plan-o:before {
-    content: "\e90a";
+  content: "\e90a";
 }
 .icon-free-plan-o:before {
-    content: "\e90b";
+  content: "\e90b";
 }
 .icon-empty-transactions-o:before {
-    content: "\e900";
+  content: "\e900";
 }
 .icon-empty-notifications-o:before {
-    content: "\e901";
+  content: "\e901";
 }
 .icon-find-expenses-o:before {
-    content: "\e903";
+  content: "\e903";
 }
 .icon-plus-thinner:before {
-    content: "\e905";
+  content: "\e905";
 }
 .icon-search-o:before {
-    content: "\e904";
+  content: "\e904";
 }
 .icon-corporate-o:before {
-    content: "\e6d9";
+  content: "\e6d9";
 }
 .icon-digital-money-o:before {
-    content: "\e6da";
+  content: "\e6da";
 }
 .icon-stored_value-o:before {
-    content: "\e6da";
+  content: "\e6da";
 }
 .icon-point-o:before {
-    content: "\e6db";
+  content: "\e6db";
 }
 .icon-bank-o:before {
-    content: "\e6dc";
+  content: "\e6dc";
 }
 .icon-manual-o:before {
-    content: "\e6dd";
+  content: "\e6dd";
 }
 .icon-credit-card-o:before {
-    content: "\e6de";
+  content: "\e6de";
 }
 .icon-credit_card-o:before {
-    content: "\e6de";
+  content: "\e6de";
 }
 .icon-maintenance-circle-o:before {
-    content: "\e6df";
+  content: "\e6df";
 }
 .icon-low-balance-o:before {
-    content: "\e6e0";
+  content: "\e6e0";
 }
 .icon-credit-card-payment-due-o:before {
-    content: "\e6e1";
+  content: "\e6e1";
 }
 .icon-cc-payment-due-o:before {
-    content: "\e6e1";
+  content: "\e6e1";
 }
 .icon-large-deposit-o:before {
-    content: "\e6e2";
+  content: "\e6e2";
 }
 .icon-large-expense-o:before {
-    content: "\e6e3";
+  content: "\e6e3";
 }
 .icon-notification-o:before {
-    content: "\e6e4";
+  content: "\e6e4";
 }
 .icon-point-expiration-o:before {
-    content: "\e6e5";
+  content: "\e6e5";
 }
 .icon-expiring-points-o:before {
-    content: "\e6e5";
+  content: "\e6e5";
 }
 .icon-salary-received-o:before {
-    content: "\e6e6";
+  content: "\e6e6";
 }
 .icon-salary-o:before {
-    content: "\e6e6";
+  content: "\e6e6";
 }
 .icon-thin-cog:before {
-    content: "\e6d8";
+  content: "\e6d8";
 }
 .icon-check-mark-circle:before {
-    content: "\e6d6";
+  content: "\e6d6";
 }
 .icon-plus:before {
-    content: "\e6d7";
+  content: "\e6d7";
 }
 .icon-account-icon:before {
-    content: "\e6d3";
+  content: "\e6d3";
 }
 .icon-arrow-right:before {
-    content: "\e6cf";
+  content: "\e6cf";
 }
 .icon-link-out-square-o:before {
-    content: "\e6ce";
+  content: "\e6ce";
 }
 .icon-minus-circle:before {
-    content: "\e6c2";
+  content: "\e6c2";
 }
 .icon-plus-circle:before {
-    content: "\e6c3";
+  content: "\e6c3";
 }
 .icon-plus-circle-o:before {
-    content: "\e6c4";
+  content: "\e6c4";
 }
 .icon-minus-circle-o:before {
-    content: "\e6c5";
+  content: "\e6c5";
 }
 .icon-arrow:before {
-    content: "\e6c0";
+  content: "\e6c0";
 }
 .icon-error-triangle-o:before {
-    content: "\e6c1";
+  content: "\e6c1";
 }
 .icon-cross:before {
-    content: "\e6bc";
+  content: "\e6bc";
 }
 .icon-mt-logo:before {
-    content: "\e600";
+  content: "\e600";
 }
 .icon-mt-logo-no-leaf:before {
-    content: "\e601";
+  content: "\e601";
 }
 .icon-up-arrow:before {
-    content: "\e602";
+  content: "\e602";
 }
 .icon-left-arrow:before {
-    content: "\e603";
+  content: "\e603";
 }
 .icon-down-arrow:before {
-    content: "\e604";
+  content: "\e604";
 }
 .icon-right-arrow:before {
-    content: "\e605";
+  content: "\e605";
 }
 .icon-moneytree:before {
-    content: "\e60b";
+  content: "\e60b";
 }
 .icon-moneytree-tm:before {
-    content: "\e6bd";
+  content: "\e6bd";
 }
 

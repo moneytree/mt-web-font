@@ -18,6 +18,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-home-o:before {
+  content: "\e91f"; }
+
+.icon-vault-o:before {
+  content: "\e920"; }
+
 .icon-spinner-new:before {
   content: "\e91e"; }
 

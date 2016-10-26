@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-home-o:before {
+  content: "\e91f";
+}
+.icon-vault-o:before {
+  content: "\e920";
+}
 .icon-spinner-new:before {
   content: "\e91e";
 }
@@ -243,3 +249,4 @@
 .icon-moneytree-tm:before {
   content: "\e6bd";
 }
+
