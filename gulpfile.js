@@ -11,9 +11,9 @@ var gulp = require('gulp'),
 
 var paths = {
     styles: {
-        filename: 'mt-webfont.css',
+        filename: 'mt-web-font.css',
         sass: [
-            'scss/mt-webfont.scss'
+            'scss/mt-web-font.scss'
         ],
         fonts: [
             'fonts/**/*.{ttf,woff,eof,svg}'
