@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-settings-o:before {
+  content: "\e921";
+}
 .icon-home-o:before {
   content: "\e91f";
 }
