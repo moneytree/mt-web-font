@@ -1,7 +1,13 @@
 {
   "name": "mt-webfont",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "main": [
-    "scss/mt-webfont.scss"
+    "scss/mt-web-font.scss",
+    "css/mt-web-font.css",
+    "fonts/*"
+  ],
+  "ignore": [
+    "icomoon",
+    "node_modules"
   ]
 }
