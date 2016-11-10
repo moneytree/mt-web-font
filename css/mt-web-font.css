@@ -16,7 +16,9 @@
   line-height: 1;
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
+  -moz-osx-font-smoothing: grayscale;
+  /* This fixes an issue with certain icons being rendered incorrectly on Retina screens with blink */
+  transform: translate3d(0, 0, 0); }
 
 .icon-settings-o:before {
   content: "\e921"; }
