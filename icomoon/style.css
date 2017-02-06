@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?v30ny');
-  src:  url('fonts/icomoon.eot?v30ny#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?v30ny') format('truetype'),
-    url('fonts/icomoon.woff?v30ny') format('woff'),
-    url('fonts/icomoon.svg?v30ny#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?tz69cf');
+  src:  url('fonts/icomoon.eot?tz69cf#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?tz69cf') format('truetype'),
+    url('fonts/icomoon.woff?tz69cf') format('woff'),
+    url('fonts/icomoon.svg?tz69cf#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-account-balances-o:before {
+  content: "\e922";
+}
+.icon-points-small-o:before {
+  content: "\e923";
+}
 .icon-settings-o:before {
   content: "\e921";
 }
