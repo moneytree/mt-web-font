@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?v30ny');
-  src:  url('fonts/icomoon.eot?v30ny#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?v30ny') format('truetype'),
-    url('fonts/icomoon.woff?v30ny') format('woff'),
-    url('fonts/icomoon.svg?v30ny#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?qeuod1');
+  src:  url('fonts/icomoon.eot?qeuod1#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?qeuod1') format('truetype'),
+    url('fonts/icomoon.woff?qeuod1') format('woff'),
+    url('fonts/icomoon.svg?qeuod1#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,28 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-account-balances-o .path1:before {
+  content: "\e922";
+  color: rgb(0, 0, 0);
+}
+.icon-account-balances-o .path2:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-account-balances-o .path3:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(2, 2, 2);
+}
+.icon-account-balances-o .path4:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-points-small-o:before {
+  content: "\e923";
+}
 .icon-settings-o:before {
   content: "\e921";
 }
