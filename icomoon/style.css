@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?qeuod1');
-  src:  url('fonts/icomoon.eot?qeuod1#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?qeuod1') format('truetype'),
-    url('fonts/icomoon.woff?qeuod1') format('woff'),
-    url('fonts/icomoon.svg?qeuod1#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?837iet');
+  src:  url('fonts/icomoon.eot?837iet#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?837iet') format('truetype'),
+    url('fonts/icomoon.woff?837iet') format('woff'),
+    url('fonts/icomoon.svg?837iet#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,24 +24,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-account-balances-o .path1:before {
+.icon-account-balances-o:before {
   content: "\e922";
-  color: rgb(0, 0, 0);
-}
-.icon-account-balances-o .path2:before {
-  content: "\e924";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icon-account-balances-o .path3:before {
-  content: "\e925";
-  margin-left: -1em;
-  color: rgb(2, 2, 2);
-}
-.icon-account-balances-o .path4:before {
-  content: "\e926";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
 .icon-points-small-o:before {
   content: "\e923";
