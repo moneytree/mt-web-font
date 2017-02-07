@@ -18,6 +18,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-account-balances-o:before {
+  content: "\e922"; }
+
+.icon-points-small-o:before {
+  content: "\e923"; }
+
 .icon-settings-o:before {
   content: "\e921"; }
 
