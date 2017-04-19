@@ -1,6 +1,3 @@
-.icon-ocr-matched-o {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
-}
 .icon-selection-validation-tick {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe925;');
 }
