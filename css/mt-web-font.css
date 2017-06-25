@@ -18,6 +18,639 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-advertising_expense:before {
+  content: "\e92a"; }
+
+.icon-air_fare:before {
+  content: "\e92b"; }
+
+.icon-air_travel:before {
+  content: "\e92c"; }
+
+.icon-allowance:before {
+  content: "\e92d"; }
+
+.icon-alphabet:before {
+  content: "\e92e"; }
+
+.icon-amusement_park:before {
+  content: "\e92f"; }
+
+.icon-anchor:before {
+  content: "\e930"; }
+
+.icon-arcade:before {
+  content: "\e931"; }
+
+.icon-atm_deposit:before {
+  content: "\e932"; }
+
+.icon-atm_fee:before {
+  content: "\e933"; }
+
+.icon-attorney_fee:before {
+  content: "\e934"; }
+
+.icon-auto_insurance:before {
+  content: "\e935"; }
+
+.icon-auto:before {
+  content: "\e936"; }
+
+.icon-bank_fee:before {
+  content: "\e937"; }
+
+.icon-beauty:before {
+  content: "\e938"; }
+
+.icon-benefits_welfare_expenses:before {
+  content: "\e939"; }
+
+.icon-bin:before {
+  content: "\e93a"; }
+
+.icon-bonus:before {
+  content: "\e93b"; }
+
+.icon-book_cost:before {
+  content: "\e93c"; }
+
+.icon-books_magazines:before {
+  content: "\e93d"; }
+
+.icon-books_supplies:before {
+  content: "\e93e"; }
+
+.icon-bucket:before {
+  content: "\e93f"; }
+
+.icon-bug:before {
+  content: "\e940"; }
+
+.icon-bulb:before {
+  content: "\e941"; }
+
+.icon-bus_fare:before {
+  content: "\e942"; }
+
+.icon-bus:before {
+  content: "\e943"; }
+
+.icon-business_trip_fee:before {
+  content: "\e944"; }
+
+.icon-buy:before {
+  content: "\e945"; }
+
+.icon-cafe_coffee_shop:before {
+  content: "\e946"; }
+
+.icon-calender:before {
+  content: "\e947"; }
+
+.icon-card_payment:before {
+  content: "\e948"; }
+
+.icon-cash_atm:before {
+  content: "\e949"; }
+
+.icon-cash_gift:before {
+  content: "\e94a"; }
+
+.icon-charity:before {
+  content: "\e94b"; }
+
+.icon-children:before {
+  content: "\e94c"; }
+
+.icon-clothing:before {
+  content: "\e94d"; }
+
+.icon-communication_cost:before {
+  content: "\e94e"; }
+
+.icon-communications:before {
+  content: "\e94f"; }
+
+.icon-compass:before {
+  content: "\e950"; }
+
+.icon-connection:before {
+  content: "\e951"; }
+
+.icon-consumable_supplies_expenses:before {
+  content: "\e952"; }
+
+.icon-convenience_store:before {
+  content: "\e953"; }
+
+.icon-cosmetics:before {
+  content: "\e954"; }
+
+.icon-daycare:before {
+  content: "\e955"; }
+
+.icon-debt_repayment:before {
+  content: "\e956"; }
+
+.icon-delivery_cost:before {
+  content: "\e957"; }
+
+.icon-dentist:before {
+  content: "\e958"; }
+
+.icon-dice:before {
+  content: "\e959"; }
+
+.icon-dividend_cap_gains:before {
+  content: "\e95a"; }
+
+.icon-doctor:before {
+  content: "\e95b"; }
+
+.icon-drops:before {
+  content: "\e95c"; }
+
+.icon-eating_out:before {
+  content: "\e95d"; }
+
+.icon-education:before {
+  content: "\e95e"; }
+
+.icon-electricity_bill:before {
+  content: "\e95f"; }
+
+.icon-electricity:before {
+  content: "\e960"; }
+
+.icon-electronics:before {
+  content: "\e961"; }
+
+.icon-elephant:before {
+  content: "\e962"; }
+
+.icon-employeetravelfee:before {
+  content: "\e963"; }
+
+.icon-employment_insurance_premium:before {
+  content: "\e964"; }
+
+.icon-entertainment_expenses:before {
+  content: "\e965"; }
+
+.icon-entertainment:before {
+  content: "\e966"; }
+
+.icon-exclude:before {
+  content: "\e967"; }
+
+.icon-expense:before {
+  content: "\e968"; }
+
+.icon-eyecare:before {
+  content: "\e969"; }
+
+.icon-fastfood:before {
+  content: "\e96a"; }
+
+.icon-fees:before {
+  content: "\e96b"; }
+
+.icon-financial_services:before {
+  content: "\e96c"; }
+
+.icon-fire:before {
+  content: "\e96d"; }
+
+.icon-flashlight:before {
+  content: "\e96e"; }
+
+.icon-flower:before {
+  content: "\e96f"; }
+
+.icon-folder:before {
+  content: "\e970"; }
+
+.icon-fuel:before {
+  content: "\e971"; }
+
+.icon-games:before {
+  content: "\e972"; }
+
+.icon-gas:before {
+  content: "\e973"; }
+
+.icon-gender_female:before {
+  content: "\e974"; }
+
+.icon-gender_male:before {
+  content: "\e975"; }
+
+.icon-gift_item_fee:before {
+  content: "\e976"; }
+
+.icon-gifts_donations:before {
+  content: "\e977"; }
+
+.icon-glasses:before {
+  content: "\e978"; }
+
+.icon-groceries:before {
+  content: "\e979"; }
+
+.icon-gym_fitness:before {
+  content: "\e97a"; }
+
+.icon-health_insurance_premium:before {
+  content: "\e97b"; }
+
+.icon-health_medical:before {
+  content: "\e97c"; }
+
+.icon-heart:before {
+  content: "\e97d"; }
+
+.icon-holiday_leisure:before {
+  content: "\e97e"; }
+
+.icon-home_improvement:before {
+  content: "\e97f"; }
+
+.icon-home_insurance:before {
+  content: "\e980"; }
+
+.icon-home_phone:before {
+  content: "\e981"; }
+
+.icon-home_rent:before {
+  content: "\e982"; }
+
+.icon-home_supplies:before {
+  content: "\e983"; }
+
+.icon-home:before {
+  content: "\e984"; }
+
+.icon-hotel:before {
+  content: "\e985"; }
+
+.icon-housekeeping_consumption:before {
+  content: "\e986"; }
+
+.icon-income_amount:before {
+  content: "\e987"; }
+
+.icon-interest_charge:before {
+  content: "\e988"; }
+
+.icon-interest_discount_fee:before {
+  content: "\e989"; }
+
+.icon-interest_income:before {
+  content: "\e98a"; }
+
+.icon-internet_fee:before {
+  content: "\e98b"; }
+
+.icon-internet:before {
+  content: "\e98c"; }
+
+.icon-investments:before {
+  content: "\e98d"; }
+
+.icon-ipad:before {
+  content: "\e98e"; }
+
+.icon-ipod:before {
+  content: "\e98f"; }
+
+.icon-izakaya_bars:before {
+  content: "\e990"; }
+
+.icon-judicial_scrivener_fee:before {
+  content: "\e991"; }
+
+.icon-karaoke:before {
+  content: "\e992"; }
+
+.icon-key:before {
+  content: "\e993"; }
+
+.icon-leaf:before {
+  content: "\e994"; }
+
+.icon-legal:before {
+  content: "\e995"; }
+
+.icon-life_insurance:before {
+  content: "\e996"; }
+
+.icon-life:before {
+  content: "\e997"; }
+
+.icon-like:before {
+  content: "\e998"; }
+
+.icon-lock:before {
+  content: "\e999"; }
+
+.icon-love:before {
+  content: "\e99a"; }
+
+.icon-lunch:before {
+  content: "\e99b"; }
+
+.icon-media:before {
+  content: "\e99c"; }
+
+.icon-megaphone:before {
+  content: "\e99d"; }
+
+.icon-message:before {
+  content: "\e99e"; }
+
+.icon-miscellaneous_expenses:before {
+  content: "\e99f"; }
+
+.icon-mobile_phone:before {
+  content: "\e9a0"; }
+
+.icon-movies:before {
+  content: "\e9a1"; }
+
+.icon-museum_theatre:before {
+  content: "\e9a2"; }
+
+.icon-music:before {
+  content: "\e9a3"; }
+
+.icon-newspaper_fee:before {
+  content: "\e9a4"; }
+
+.icon-nexus:before {
+  content: "\e9a5"; }
+
+.icon-office_equipment:before {
+  content: "\e9a6"; }
+
+.icon-office_supplies:before {
+  content: "\e9a7"; }
+
+.icon-omiyage:before {
+  content: "\e9a8"; }
+
+.icon-online_service:before {
+  content: "\e9a9"; }
+
+.icon-onsen:before {
+  content: "\e9aa"; }
+
+.icon-other_income:before {
+  content: "\e9ab"; }
+
+.icon-other_insurance:before {
+  content: "\e9ac"; }
+
+.icon-outsourced_labor:before {
+  content: "\e9ad"; }
+
+.icon-packing_freight:before {
+  content: "\e9ae"; }
+
+.icon-paper:before {
+  content: "\e9af"; }
+
+.icon-parking_fee:before {
+  content: "\e9b0"; }
+
+.icon-parking:before {
+  content: "\e9b1"; }
+
+.icon-pediatrician:before {
+  content: "\e9b2"; }
+
+.icon-personal_care:before {
+  content: "\e9b3"; }
+
+.icon-pets:before {
+  content: "\e9b4"; }
+
+.icon-pharmacy:before {
+  content: "\e9b5"; }
+
+.icon-photo:before {
+  content: "\e9b6"; }
+
+.icon-pie:before {
+  content: "\e9b7"; }
+
+.icon-pin:before {
+  content: "\e9b8"; }
+
+.icon-points:before {
+  content: "\e9b9"; }
+
+.icon-portfolio:before {
+  content: "\e9ba"; }
+
+.icon-postage_expense:before {
+  content: "\e9bb"; }
+
+.icon-printing:before {
+  content: "\e9bc"; }
+
+.icon-property_insurance_premium:before {
+  content: "\e9bd"; }
+
+.icon-r_d_expenses:before {
+  content: "\e9be"; }
+
+.icon-recruitment_fee:before {
+  content: "\e9bf"; }
+
+.icon-rent:before {
+  content: "\e9c0"; }
+
+.icon-rental_car:before {
+  content: "\e9c1"; }
+
+.icon-rental_income:before {
+  content: "\e9c2"; }
+
+.icon-repair_costs:before {
+  content: "\e9c3"; }
+
+.icon-residency_tax:before {
+  content: "\e9c4"; }
+
+.icon-restaurant:before {
+  content: "\e9c5"; }
+
+.icon-salary_wage:before {
+  content: "\e9c6"; }
+
+.icon-salary:before {
+  content: "\e9c7"; }
+
+.icon-sales_amount:before {
+  content: "\e9c8"; }
+
+.icon-school_fees:before {
+  content: "\e9c9"; }
+
+.icon-sell:before {
+  content: "\e9ca"; }
+
+.icon-sent:before {
+  content: "\e9cb"; }
+
+.icon-service:before {
+  content: "\e9cc"; }
+
+.icon-shipping:before {
+  content: "\e9cd"; }
+
+.icon-shoes:before {
+  content: "\e9ce"; }
+
+.icon-shopping:before {
+  content: "\e9cf"; }
+
+.icon-shrimp:before {
+  content: "\e9d0"; }
+
+.icon-smoking:before {
+  content: "\e9d1"; }
+
+.icon-software:before {
+  content: "\e9d2"; }
+
+.icon-sparrow:before {
+  content: "\e9d3"; }
+
+.icon-splat:before {
+  content: "\e9d4"; }
+
+.icon-sporting_goods:before {
+  content: "\e9d5"; }
+
+.icon-spruce:before {
+  content: "\e9d6"; }
+
+.icon-square:before {
+  content: "\e9d7"; }
+
+.icon-stamp_fee:before {
+  content: "\e9d8"; }
+
+.icon-star:before {
+  content: "\e9d9"; }
+
+.icon-strawberry:before {
+  content: "\e9da"; }
+
+.icon-student_loan:before {
+  content: "\e9db"; }
+
+.icon-tax_accountant_fee:before {
+  content: "\e9dc"; }
+
+.icon-tax_and_public_duty:before {
+  content: "\e9dd"; }
+
+.icon-tax_fee:before {
+  content: "\e9de"; }
+
+.icon-tax_registration:before {
+  content: "\e9df"; }
+
+.icon-taxes:before {
+  content: "\e9e0"; }
+
+.icon-taxi_fare:before {
+  content: "\e9e1"; }
+
+.icon-taxi:before {
+  content: "\e9e2"; }
+
+.icon-telephone_bill:before {
+  content: "\e9e3"; }
+
+.icon-television:before {
+  content: "\e9e4"; }
+
+.icon-theater:before {
+  content: "\e9e5"; }
+
+.icon-timer:before {
+  content: "\e9e6"; }
+
+.icon-toll_road_fee:before {
+  content: "\e9e7"; }
+
+.icon-tollway:before {
+  content: "\e9e8"; }
+
+.icon-tone:before {
+  content: "\e9e9"; }
+
+.icon-train_fare:before {
+  content: "\e9ea"; }
+
+.icon-train:before {
+  content: "\e9eb"; }
+
+.icon-transfer_fee:before {
+  content: "\e9ec"; }
+
+.icon-transfer:before {
+  content: "\e9ed"; }
+
+.icon-transport:before {
+  content: "\e9ee"; }
+
+.icon-travel_expenses:before {
+  content: "\e9ef"; }
+
+.icon-tuition:before {
+  content: "\e9f0"; }
+
+.icon-uinlocked:before {
+  content: "\e9f1"; }
+
+.icon-uncategorized:before {
+  content: "\e9f2"; }
+
+.icon-utilities:before {
+  content: "\e9f3"; }
+
+.icon-video:before {
+  content: "\e9f4"; }
+
+.icon-warehouse_cost:before {
+  content: "\e9f5"; }
+
+.icon-water_bill:before {
+  content: "\e9f6"; }
+
+.icon-water_utility_expenses:before {
+  content: "\e9f7"; }
+
+.icon-water:before {
+  content: "\e9f8"; }
+
+.icon-welfare_pension_insurance_premium:before {
+  content: "\e9f9"; }
+
+.icon-window:before {
+  content: "\e9fa"; }
+
+.icon-workers_compensation_insurance_premium:before {
+  content: "\e9fb"; }
+
+.icon-yenphant:before {
+  content: "\e9fc"; }
+
 .icon-selection-validation-tick:before {
   content: "\e925"; }
 
@@ -60,7 +693,7 @@
 .icon-clear-all-o:before {
   content: "\e91c"; }
 
-.icon-heart:before {
+.icon-heart2:before {
   content: "\e91d"; }
 
 .icon-welcome-o:before {
@@ -136,13 +769,16 @@
   content: "\e90b"; }
 
 .icon-empty-transactions-o:before {
-  content: "\e900"; }
+  content: "\e900";
+  color: #000; }
 
 .icon-empty-notifications-o:before {
-  content: "\e901"; }
+  content: "\e901";
+  color: #000; }
 
 .icon-find-expenses-o:before {
-  content: "\e903"; }
+  content: "\e903";
+  color: #000; }
 
 .icon-plus-thinner:before {
   content: "\e905"; }
@@ -244,28 +880,37 @@
   content: "\e6c1"; }
 
 .icon-cross:before {
-  content: "\e6bc"; }
+  content: "\e6bc";
+  color: #444; }
 
 .icon-mt-logo:before {
-  content: "\e600"; }
+  content: "\e600";
+  color: #444; }
 
 .icon-mt-logo-no-leaf:before {
-  content: "\e601"; }
+  content: "\e601";
+  color: #444; }
 
 .icon-up-arrow:before {
-  content: "\e602"; }
+  content: "\e602";
+  color: #444; }
 
 .icon-left-arrow:before {
-  content: "\e603"; }
+  content: "\e603";
+  color: #444; }
 
 .icon-down-arrow:before {
-  content: "\e604"; }
+  content: "\e604";
+  color: #444; }
 
 .icon-right-arrow:before {
-  content: "\e605"; }
+  content: "\e605";
+  color: #444; }
 
 .icon-moneytree:before {
-  content: "\e60b"; }
+  content: "\e60b";
+  color: #444; }
 
 .icon-moneytree-tm:before {
-  content: "\e6bd"; }
+  content: "\e6bd";
+  color: #444; }
