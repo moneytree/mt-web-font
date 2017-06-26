@@ -651,6 +651,9 @@
 .icon-yenphant:before {
   content: "\e9fc"; }
 
+.icon-description:before {
+  content: "\e9fd"; }
+
 .icon-selection-validation-tick:before {
   content: "\e925"; }
 
@@ -671,6 +674,9 @@
 
 .icon-account-balances-o:before {
   content: "\e922"; }
+
+.icon-spending-o:before {
+  content: "\e9fe"; }
 
 .icon-points-small-o:before {
   content: "\e923"; }
@@ -769,16 +775,13 @@
   content: "\e90b"; }
 
 .icon-empty-transactions-o:before {
-  content: "\e900";
-  color: #000; }
+  content: "\e900"; }
 
 .icon-empty-notifications-o:before {
-  content: "\e901";
-  color: #000; }
+  content: "\e901"; }
 
 .icon-find-expenses-o:before {
-  content: "\e903";
-  color: #000; }
+  content: "\e903"; }
 
 .icon-plus-thinner:before {
   content: "\e905"; }
@@ -880,37 +883,28 @@
   content: "\e6c1"; }
 
 .icon-cross:before {
-  content: "\e6bc";
-  color: #444; }
+  content: "\e6bc"; }
 
 .icon-mt-logo:before {
-  content: "\e600";
-  color: #444; }
+  content: "\e600"; }
 
 .icon-mt-logo-no-leaf:before {
-  content: "\e601";
-  color: #444; }
+  content: "\e601"; }
 
 .icon-up-arrow:before {
-  content: "\e602";
-  color: #444; }
+  content: "\e602"; }
 
 .icon-left-arrow:before {
-  content: "\e603";
-  color: #444; }
+  content: "\e603"; }
 
 .icon-down-arrow:before {
-  content: "\e604";
-  color: #444; }
+  content: "\e604"; }
 
 .icon-right-arrow:before {
-  content: "\e605";
-  color: #444; }
+  content: "\e605"; }
 
 .icon-moneytree:before {
-  content: "\e60b";
-  color: #444; }
+  content: "\e60b"; }
 
 .icon-moneytree-tm:before {
-  content: "\e6bd";
-  color: #444; }
+  content: "\e6bd"; }

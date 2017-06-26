@@ -782,15 +782,12 @@
 }
 .icon-empty-transactions-o:before {
   content: "\e900";
-  color: #000;
 }
 .icon-empty-notifications-o:before {
   content: "\e901";
-  color: #000;
 }
 .icon-find-expenses-o:before {
   content: "\e903";
-  color: #000;
 }
 .icon-plus-thinner:before {
   content: "\e905";
