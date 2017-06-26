@@ -225,6 +225,7 @@
 		'icon-workers_compensation_insurance_premium': '&#xe9fb;',
 		'icon-yenphant': '&#xe9fc;',
 		'icon-description': '&#xe9fd;',
+		'icon-ocr-matched-o': '&#xe9ff;',
 		'icon-selection-validation-tick': '&#xe925;',
 		'icon-delete-cross': '&#xe926;',
 		'icon-checkmark-unselected': '&#xe927;',
