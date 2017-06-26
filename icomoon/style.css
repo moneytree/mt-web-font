@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ltok6b');
-  src:  url('fonts/icomoon.eot?ltok6b#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ltok6b') format('truetype'),
-    url('fonts/icomoon.woff?ltok6b') format('woff'),
-    url('fonts/icomoon.svg?ltok6b#icomoon') format('svg');
+  font-family: 'moneytree';
+  src:  url('fonts/moneytree.eot?tiwn9');
+  src:  url('fonts/moneytree.eot?tiwn9#iefix') format('embedded-opentype'),
+    url('fonts/moneytree.ttf?tiwn9') format('truetype'),
+    url('fonts/moneytree.woff?tiwn9') format('woff'),
+    url('fonts/moneytree.svg?tiwn9#moneytree') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'moneytree' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -657,6 +657,9 @@
 .icon-yenphant:before {
   content: "\e9fc";
 }
+.icon-description:before {
+  content: "\e9fd";
+}
 .icon-selection-validation-tick:before {
   content: "\e925";
 }
@@ -677,6 +680,9 @@
 }
 .icon-account-balances-o:before {
   content: "\e922";
+}
+.icon-spending-o:before {
+  content: "\e9fe";
 }
 .icon-points-small-o:before {
   content: "\e923";
