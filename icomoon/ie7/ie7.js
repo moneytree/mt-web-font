@@ -10,7 +10,7 @@
 (function() {
 	function addIcon(el, entity) {
 		var html = el.innerHTML;
-		el.innerHTML = '<span style="font-family: \'icomoon\'">' + entity + '</span>' + html;
+		el.innerHTML = '<span style="font-family: \'moneytree\'">' + entity + '</span>' + html;
 	}
 	var icons = {
 		'icon-advertising_expense': '&#xe92a;',
@@ -224,6 +224,7 @@
 		'icon-window': '&#xe9fa;',
 		'icon-workers_compensation_insurance_premium': '&#xe9fb;',
 		'icon-yenphant': '&#xe9fc;',
+		'icon-description': '&#xe9fd;',
 		'icon-selection-validation-tick': '&#xe925;',
 		'icon-delete-cross': '&#xe926;',
 		'icon-checkmark-unselected': '&#xe927;',
@@ -231,6 +232,7 @@
 		'icon-search-magnifying-glass': '&#xe929;',
 		'icon-settings-thin-o': '&#xe924;',
 		'icon-account-balances-o': '&#xe922;',
+		'icon-spending-o': '&#xe9fe;',
 		'icon-points-small-o': '&#xe923;',
 		'icon-settings-o': '&#xe921;',
 		'icon-home-o': '&#xe91f;',
