@@ -17,7 +17,7 @@
         "isMulticolor2": false,
         "grid": 16,
         "tags": [
-          "more-button"
+          "more"
         ],
         "colorPermutations": {
           "16868681": [
@@ -35,7 +35,7 @@
       "properties": {
         "order": 6,
         "id": 291,
-        "name": "more-button",
+        "name": "more",
         "prevSize": 32,
         "code": 59904
       },
