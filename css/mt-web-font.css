@@ -18,6 +18,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-more-button:before {
+  content: "\ea00"; }
+
 .icon-advertising_expense:before {
   content: "\e92a"; }
 

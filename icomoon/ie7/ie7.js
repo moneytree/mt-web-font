@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'moneytree\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icon-more-button': '&#xea00;',
 		'icon-advertising_expense': '&#xe92a;',
 		'icon-air_fare': '&#xe92b;',
 		'icon-air_travel': '&#xe92c;',
