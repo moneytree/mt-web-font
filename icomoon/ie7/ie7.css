@@ -187,7 +187,7 @@
 .icon-exclude {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe967;');
 }
-.icon-expense {
+.icon-business_expense {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;');
 }
 .icon-eyecare {
