@@ -76,7 +76,7 @@
 		'icon-entertainment_expenses': '&#xe965;',
 		'icon-entertainment': '&#xe966;',
 		'icon-exclude': '&#xe967;',
-		'icon-expense': '&#xe968;',
+		'icon-business_expense': '&#xe968;',
 		'icon-eyecare': '&#xe969;',
 		'icon-fastfood': '&#xe96a;',
 		'icon-fees': '&#xe96b;',

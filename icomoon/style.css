@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'moneytree';
-  src:  url('fonts/moneytree.eot?cqaatt');
-  src:  url('fonts/moneytree.eot?cqaatt#iefix') format('embedded-opentype'),
-    url('fonts/moneytree.ttf?cqaatt') format('truetype'),
-    url('fonts/moneytree.woff?cqaatt') format('woff'),
-    url('fonts/moneytree.svg?cqaatt#moneytree') format('svg');
+  src:  url('fonts/moneytree.eot?75jrvb');
+  src:  url('fonts/moneytree.eot?75jrvb#iefix') format('embedded-opentype'),
+    url('fonts/moneytree.ttf?75jrvb') format('truetype'),
+    url('fonts/moneytree.woff?75jrvb') format('woff'),
+    url('fonts/moneytree.svg?75jrvb#moneytree') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -213,7 +213,7 @@
 .icon-exclude:before {
   content: "\e967";
 }
-.icon-expense:before {
+.icon-business_expense:before {
   content: "\e968";
 }
 .icon-eyecare:before {
