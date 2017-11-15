@@ -1,4 +1,9 @@
 # mt-web-font
+# Setup
+```
+yarn install
+```
+
 # Steps for updating the web font
 1. Go to https://icomoon.io/app/#/select
 2. Upload the latest ``selection.json`` in the ``iconmoon`` folder
@@ -8,7 +13,7 @@
 6. Unzip it
 7. Copy the whole unzipped folder to update this repository
 8. Update the ``.scss`` file with the new styles
-9. Always use `gulp build:css` to compile your new changes. 
+9. Always use `gulp build:css` to compile your new changes.
 
 
 # TODO
