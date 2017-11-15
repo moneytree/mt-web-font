@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-download-from-cloud:before {
+  content: "\ea01";
+}
 .icon-more:before {
   content: "\ea00";
 }
