@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-insufficient-funds:before {
+  content: "\ea02";
+}
 .icon-download-from-cloud:before {
   content: "\ea01";
 }
