@@ -1,3 +1,6 @@
+.icon-insufficient-funds {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea02;');
+}
 .icon-download-from-cloud {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea01;');
 }
