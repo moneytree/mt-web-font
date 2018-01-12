@@ -13,7 +13,7 @@ yarn install
 6. Unzip it
 7. Copy the whole unzipped folder to update this repository
 8. Update the ``.scss`` file with the new styles
-9. Always use `gulp build:css` to compile your new changes.
+9. Always use `yarn build` to compile your new changes.
 
 
 # TODO

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'moneytree';
-  src:  url('fonts/moneytree.eot?uhbuh9');
-  src:  url('fonts/moneytree.eot?uhbuh9#iefix') format('embedded-opentype'),
-    url('fonts/moneytree.ttf?uhbuh9') format('truetype'),
-    url('fonts/moneytree.woff?uhbuh9') format('woff'),
-    url('fonts/moneytree.svg?uhbuh9#moneytree') format('svg');
+  src:  url('fonts/moneytree.eot?p8knxz');
+  src:  url('fonts/moneytree.eot?p8knxz#iefix') format('embedded-opentype'),
+    url('fonts/moneytree.ttf?p8knxz') format('truetype'),
+    url('fonts/moneytree.woff?p8knxz') format('woff'),
+    url('fonts/moneytree.svg?p8knxz#moneytree') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,7 +24,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-insufficient-funds:before {
+.icon-insufficient-funds-o:before {
   content: "\ea02";
 }
 .icon-download-from-cloud:before {

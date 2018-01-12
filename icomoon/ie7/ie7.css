@@ -1,4 +1,4 @@
-.icon-insufficient-funds {
+.icon-insufficient-funds-o {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea02;');
 }
 .icon-download-from-cloud {
