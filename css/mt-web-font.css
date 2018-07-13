@@ -18,6 +18,90 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+.icon-corp_account_transfer:before {
+  content: "\ea03"; }
+
+.icon-corp_ads:before {
+  content: "\ea04"; }
+
+.icon-corp_benefits:before {
+  content: "\ea05"; }
+
+.icon-corp_comm:before {
+  content: "\ea06"; }
+
+.icon-corp_consumption_tax_payment:before {
+  content: "\ea07"; }
+
+.icon-corp_consumption_tax_refund:before {
+  content: "\ea08"; }
+
+.icon-corp_debt:before {
+  content: "\ea09"; }
+
+.icon-corp_delivery:before {
+  content: "\ea0a"; }
+
+.icon-corp_entertainment:before {
+  content: "\ea0b"; }
+
+.icon-corp_fixed_assets:before {
+  content: "\ea0c"; }
+
+.icon-corp_insurance:before {
+  content: "\ea0d"; }
+
+.icon-corp_interest_expenses:before {
+  content: "\ea0e"; }
+
+.icon-corp_interest_received-_copy:before {
+  content: "\ea0f"; }
+
+.icon-corp_interest_received:before {
+  content: "\ea10"; }
+
+.icon-corp_investment:before {
+  content: "\ea11"; }
+
+.icon-corp_loan:before {
+  content: "\ea12"; }
+
+.icon-corp_misc:before {
+  content: "\ea13"; }
+
+.icon-corp_outsource:before {
+  content: "\ea14"; }
+
+.icon-corp_purchase:before {
+  content: "\ea15"; }
+
+.icon-corp_rent:before {
+  content: "\ea16"; }
+
+.icon-corp_repair:before {
+  content: "\ea17"; }
+
+.icon-corp_salary:before {
+  content: "\ea18"; }
+
+.icon-corp_sales:before {
+  content: "\ea19"; }
+
+.icon-corp_sundry_taxes:before {
+  content: "\ea1a"; }
+
+.icon-corp_supplies:before {
+  content: "\ea1b"; }
+
+.icon-corp_tax_payment:before {
+  content: "\ea1c"; }
+
+.icon-corp_travel:before {
+  content: "\ea1d"; }
+
+.icon-corp_utilities:before {
+  content: "\ea1e"; }
+
 .icon-download-from-cloud:before {
   content: "\ea01"; }
 
