@@ -12,8 +12,8 @@ yarn install
 5. Download it
 6. Unzip it
 7. Copy the whole unzipped folder to update this repository
-8. Update the ``.scss`` file with the new styles
-9. Always use `yarn build` to compile your new changes.
+8. Update the ``.css`` file with the new styles
+9. Update the version before publishing `yarn <patch|feature|release>`.
 
 
 # TODO
