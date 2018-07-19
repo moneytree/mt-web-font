@@ -2,12 +2,12 @@
   "name": "mt-webfont",
   "version": "0.3.0",
   "main": [
-    "scss/mt-web-font.scss",
     "css/mt-web-font.css",
-    "fonts/*"
+    "icomoon/fonts/*"
   ],
   "ignore": [
-    "icomoon",
+    "icomoon/*",
+    "!icomoon/fonts",
     "node_modules"
   ]
 }
