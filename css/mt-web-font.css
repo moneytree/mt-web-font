@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'moneytree';
-  src: url("../icomoon/fonts/moneytree.eot");
-  src: url("../icomoon/fonts/moneytree.eot?#iefix") format("embedded-opentype"),
-    url("../icomoon/fonts/moneytree.woff") format("woff"), 
-    url("../icomoon/fonts/moneytree.ttf") format("truetype"), 
-    url("../icomoon/fonts/moneytree.svg") format("svg");
+  src: url("../fonts/moneytree.eot");
+  src: url("../fonts/moneytree.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/moneytree.woff") format("woff"), 
+    url("../fonts/moneytree.ttf") format("truetype"), 
+    url("../fonts/moneytree.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
