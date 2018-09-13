@@ -1,3 +1,9 @@
+.icon-category-updates-o {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea20;');
+}
+.icon-mail-o {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1f;');
+}
 .icon-corp_account_transfer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea03;');
 }

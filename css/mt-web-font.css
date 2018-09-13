@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-category-updates-o:before {
+  content: "\ea20";
+}
+.icon-mail-o:before {
+  content: "\ea1f";
+}
 .icon-corp_account_transfer:before {
   content: "\ea03";
 }
