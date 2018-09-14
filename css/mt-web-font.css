@@ -24,7 +24,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-category-updates-o:before {
+.icon-category_updates-o:before {
   content: "\ea20";
 }
 .icon-mail-o:before {

@@ -23,7 +23,7 @@
         "isMulticolor2": false,
         "grid": 16,
         "tags": [
-          "category-updates-o"
+          "category_updates-o"
         ],
         "colorPermutations": {
           "16868681": [
@@ -47,7 +47,7 @@
       "properties": {
         "order": 2263,
         "id": 324,
-        "name": "category-updates-o",
+        "name": "category_updates-o",
         "prevSize": 32,
         "code": 59936
       },
