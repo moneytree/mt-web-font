@@ -298,6 +298,7 @@
 		'icon-moneytree-free': '&#xe90d;',
 		'icon-pro-plan-o': '&#xe909;',
 		'icon-plus-plan-o': '&#xe90a;',
+		'icon-starter-plan-o': '&#xea21;',
 		'icon-free-plan-o': '&#xe90b;',
 		'icon-empty-transactions-o': '&#xe900;',
 		'icon-empty-notifications-o': '&#xe901;',
