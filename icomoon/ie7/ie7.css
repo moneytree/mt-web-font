@@ -1,3 +1,6 @@
+.icon-calendar_date_selector {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea22;');
+}
 .icon-category_updates-o {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea20;');
 }
