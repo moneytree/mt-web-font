@@ -13,7 +13,8 @@ yarn install
 6. Unzip it
 7. Copy the whole unzipped folder to update this repository
 8. Update the ``.css`` file with the new styles
-9. Update the version before publishing `yarn gulp <patch|feature|release>`.
+9. Update the ``font`` folder with the ``/iconmoon/folder``
+10. Update the version before publishing `yarn gulp <patch|feature|release>`. (but after merging any changes)
 
 
 # TODO
